@@ -1,0 +1,3 @@
+ut_mcc_threshold: 0
+ut_service_threshold: 20
+excluded_ut_code_files: scripts/**,docs/**,deployments/**,configs/**,cmd/**,build/**,bin/**,**/*_test.go,**/*mock.go,**/*coverage*,**/constants/**/*,**/constant.go,coverage/*,tools.go,internal/infra/**,pkg/kafka/*,pkg/worker/*,pkg/queue/*,pkg/events/events.go,internal/common/*,internal/provider/metric/metric.go,test/functional/**,test/unit/*,dangerfile.js,slit/**
