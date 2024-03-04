@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	patchcover "github.com/seriousben/go-patch-cover"
+	patchcover "github.com/srinidhis05/go-patch-cover"
 )
 
 type CoverCommand struct {

@@ -1,4 +1,4 @@
-module github.com/seriousben/go-patch-cover
+module github.com/srinidhis05/go-patch-cover
 
 go 1.17
 
