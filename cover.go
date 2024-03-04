@@ -247,8 +247,6 @@ func printUncoveredLines(partiallyCoveredLines, coveredLines map[string][]Line, 
 	if err != nil {
 		fmt.Println("Error reading file:", err)
 	}
-	fmt.Println(string(content))
-	fmt.Println("Uncovered lines have been saved to uncovered_lines.txt.")
 	data.Uncovered_lines = string(content)
 	return data
 }
